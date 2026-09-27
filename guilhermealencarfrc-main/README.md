@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Fazia parte da equipe LuverControl #10298, que compete na renomada First Robotics Competition (FRC), onde colocavamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.<br><br>No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.</p>
+<p data-importer="text" align="center">Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Fazia parte da equipe LuverControl #10298, que compete na renomada First Robotics Competition (FRC), onde colocavamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica<br><br>No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.</p>
 
 ###
 
